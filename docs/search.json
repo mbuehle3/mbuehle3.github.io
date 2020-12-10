@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-09T21:06:15-06:00"
+      "last_modified": "2020-12-10T03:59:36-06:00"
     },
     {
       "path": "index.html",
       "title": "Matthew D. Buehler",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2020-12-09T21:06:16-06:00"
+      "contents": "\nWhere does this go?\n\n\n\n",
+      "last_modified": "2020-12-10T03:59:37-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
