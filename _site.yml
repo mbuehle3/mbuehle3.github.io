@@ -3,7 +3,7 @@ title: "Matthew D. Buehler"
 description: |
   Matthew D. Buehler
 output_dir: "_site"
-base_url: https://mbuehle3.github.io
+base_url: https://mbuehle3.github.io/
 navbar:
   right:
     - text: "Home"
