@@ -6,7 +6,7 @@ output_dir: "docs"
 base_url: https://mbuehle3.github.io/
 theme: sitev1.css
 navbar:
-  search: true
+  search: false
   right:
     - text: "Home"
       href: index.html
