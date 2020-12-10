@@ -10,4 +10,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text:  "Eastern Indigo Snakes"
+      href: EIS.html
 output: distill::distill_article

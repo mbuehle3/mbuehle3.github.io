@@ -7,15 +7,14 @@
     <description>Matthew D. Buehler
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Welcome to Matthew D. Buehler</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://mbuehle3.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, Matthew D. Buehler. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://mbuehle3.github.io/posts/welcome</guid>
-      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Working on the Website</title>
+      <dc:creator>Matthew D. Buehler</dc:creator>
+      <link>https://mbuehle3.github.io/posts/2020-12-10-working-on-the-website</link>
+      <description>How to get this thing working!</description>
+      <guid>https://mbuehle3.github.io/posts/2020-12-10-working-on-the-website</guid>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

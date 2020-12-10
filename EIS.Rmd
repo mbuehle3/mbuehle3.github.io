@@ -1,0 +1,15 @@
+---
+title: "Eastern Indigo Snakes *Drymarchon couperi*"
+description: |
+  An introduction to the Crown Jewel of North American Snakes
+author:
+  - name: Matthew D. Buehler
+    affiliation: Auburn University
+    
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

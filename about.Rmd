@@ -1,9 +1,13 @@
 ---
-title: "About this blog"
+title: "About Myself"
 description: |
-  Some additional details about the blog
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+My name is Matt Buehler, and welcome to my site! 
+I am a graduate student at Auburn University in the Phyletica lab. 
+My research interest center around the different aspects of snake evolution. 
+Some of the previous work that I have done includes phylogenetics and biogeography of Australasian elapid snakes, phylogeography and species delimitation of sea kraits (genus *Laticauda*), and my current project, population and conservation genomics of Eastern Indigo Snakes *Drymarchon couperi*,

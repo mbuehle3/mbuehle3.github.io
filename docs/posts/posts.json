@@ -1,19 +1,19 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Matthew D. Buehler",
-    "description": "Welcome to our new blog, Matthew D. Buehler. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2020-12-10-working-on-the-website/",
+    "title": "Working on the Website",
+    "description": "How to get this thing working!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Matthew D. Buehler",
+        "url": {}
       }
     ],
-    "date": "2020-12-09",
+    "date": "2020-12-10",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\n\nContents\nGetting Started on a Distill Website\nThe Next Part\n\nGetting Started on a Distill Website\nA few days ago I found a blog post talking about using Distill as a compiler for simple websites. I am more comfortable with R and Rmarkdown than I am with using something like Jekyll, but there were still quite a few bumps in the road getting the site functional\nInstallation of Distill is simple enough\n\n\ninstall.packages(\"distill\")\nlibrary(distill)\n\n\n\nThe tricky part to setting up a Github website was figuring out where files are being written to and read in from. Some sites recommended that you write output from Distill to a _site directory, however, for me Github would only read from either the base directory or from a docs/ directory.\nThe Next Part\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-09T20:54:04-06:00",
-    "input_file": {}
+    "last_modified": "2020-12-10T04:49:44-06:00",
+    "input_file": "working-on-the-website.utf8.md"
   }
 ]
