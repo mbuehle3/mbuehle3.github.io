@@ -2,8 +2,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Matthew D. Buehler</title>
-    <link>https://mbuehle3.github.io</link>
-    <atom:link href="https://mbuehle3.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <link>https://mbuehle3.github.io/docs/index.html</link>
+    <atom:link href="https://mbuehle3.github.io/docs/index.html/index.xml" rel="self" type="application/rss+xml"/>
     <description>Matthew D. Buehler
 </description>
     <generator>Distill</generator>
@@ -11,9 +11,9 @@
     <item>
       <title>Working on the Website</title>
       <dc:creator>Matthew D. Buehler</dc:creator>
-      <link>https://mbuehle3.github.io/posts/2020-12-10-working-on-the-website</link>
+      <link>https://mbuehle3.github.io/docs/index.html/posts/2020-12-10-working-on-the-website</link>
       <description>How to get this thing working!</description>
-      <guid>https://mbuehle3.github.io/posts/2020-12-10-working-on-the-website</guid>
+      <guid>https://mbuehle3.github.io/docs/index.html/posts/2020-12-10-working-on-the-website</guid>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>https://mbuehle3.github.io/about.html</loc>
+    <loc>https://mbuehle3.github.io/docs/index.html/about.html</loc>
     <lastmod>2020-12-10T04:31:25-06:00</lastmod>
   </url>
   <url>
-    <loc>https://mbuehle3.github.io/EIS.html</loc>
+    <loc>https://mbuehle3.github.io/docs/index.html/EIS.html</loc>
     <lastmod>2020-12-10T04:36:08-06:00</lastmod>
   </url>
   <url>
-    <loc>https://mbuehle3.github.io/</loc>
+    <loc>https://mbuehle3.github.io/docs/index.html/</loc>
     <lastmod>2020-12-10T04:19:45-06:00</lastmod>
   </url>
   <url>
-    <loc>https://mbuehle3.github.io/posts/2020-12-10-working-on-the-website/</loc>
+    <loc>https://mbuehle3.github.io/docs/index.html/posts/2020-12-10-working-on-the-website/</loc>
     <lastmod>2020-12-10T04:49:44-06:00</lastmod>
   </url>
 </urlset>
