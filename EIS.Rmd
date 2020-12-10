@@ -12,6 +12,7 @@ output: distill::distill_article
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
 ```
 
 ## Introduction
@@ -21,7 +22,7 @@ Currently, they are federally listed as Theatened, and there are ongoing efforts
 
 
 ```{r, echo = FALSE , out.width="30%"}
-knitr::include_graphics("media/indigo-snake-OCIC.jpg")
+include_graphics("images/indigo-snake-OCIC.jpg")
 ```
 
 Something new
