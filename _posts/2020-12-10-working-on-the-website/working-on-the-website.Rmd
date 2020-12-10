@@ -36,3 +36,7 @@ The tricky part to setting up a Github website was figuring out where files are 
 Some sites recommended that you write output from Distill to a _site directory, however, for me Github would only read from either the base directory or from a docs/ directory. 
 
 ## The Next Part
+
+In order for the website to render from your base Github URL (e.g. - https://mbuehle3.github.io), there are settings on Github that need to be changed. 
+Under the Settings tab, you need to click on Options, then scroll to the bottom where it says Github Pages and Source. 
+Select the directory where the 'index.html' file is located; this file is the main page to your website.
