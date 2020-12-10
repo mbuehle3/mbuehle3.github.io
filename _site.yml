@@ -2,7 +2,7 @@ name: "mbuehle3.github.io"
 title: "Matthew D. Buehler"
 description: |
   Matthew D. Buehler
-output_dir: "_site/"
+output_dir: "."
 base_url: https://mbuehle3.github.io/
 navbar:
   right:
