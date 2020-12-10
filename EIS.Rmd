@@ -1,5 +1,5 @@
 ---
-title: "Eastern Indigo Snakes *Drymarchon couperi*"
+title: "Eastern Indigo Snakes"
 description: |
   An introduction to the Crown Jewel of North American Snakes
 author:
@@ -13,16 +13,27 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 library(knitr)
+library(bookdown)
 ```
 
 ## Introduction
 
-Eastern Indigo Snakes (EIS) are the largest colubrid snakes in North America.
-Currently, they are federally listed as Theatened, and there are ongoing efforts to conserved the species. 
+Eastern Indigo Snakes (EIS) are the largest colubrid snakes in North America, and is endemic to the southeastern United States.
+Currently, they are federally listed as Threatened due to the massive amounts of habitat destruction that have historically occurred in the southeastern Longleaf Pine ecosystems. 
+Historically, the species ocurred throughout Florida, southern Georgia, southern Alabama, and perhaps even parts of Mississippi. (Figure \@ref(fig:historic-distro))
+However, the current range only includes Florida and southeastern Georgia (Figure \@ref(fig:current-distro)). 
 
 
-```{r, echo = FALSE , out.width="30%"}
-include_graphics("images/indigo-snake-OCIC.jpg")
+```{r historic-distro, echo = FALSE , out.width="80%", fig.align = 'center', fig.cap = " The historic distribution of *Drymarchon couperi*,figure from the USFW SSA for EIS"}
+include_graphics("images/indigo-snake-regions.PNG")
 ```
 
-Something new
+
+```{r current-distro, echo = FALSE , out.width="80%", fig.align = 'center', fig.cap = "The current distribution of *Drymarchon couperi*, figure from the USFW SSA for EIS"}
+include_graphics("images/indigo-snake-current-distributionjpg.PNG")
+```
+
+
+```{r, echo = FALSE , out.width="80%", fig.align = 'center', fig.cap = "An Eastern Indigo Snake *Drymarchon couperi*"}
+include_graphics("images/indigo-snake-OCIC.jpg")
+```
