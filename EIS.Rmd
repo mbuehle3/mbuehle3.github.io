@@ -20,6 +20,8 @@ Eastern Indigo Snakes (EIS) are the largest colubrid snakes in North America.
 Currently, they are federally listed as Theatened, and there are ongoing efforts to conserved the species. 
 
 
-```{r, echo = TRUE, out.width="30%"}
+```{r, echo = FALSE , out.width="30%"}
 knitr::include_graphics("media/indigo-snake-OCIC.jpg")
 ```
+
+Something new

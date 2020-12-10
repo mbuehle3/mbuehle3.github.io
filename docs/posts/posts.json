@@ -11,9 +11,9 @@
     ],
     "date": "2020-12-10",
     "categories": [],
-    "contents": "\n\nContents\nGetting Started on a Distill Website\nThe Next Part\n\nGetting Started on a Distill Website\nA few days ago I found a blog post talking about using Distill as a compiler for simple websites. I am more comfortable with R and Rmarkdown than I am with using something like Jekyll, but there were still quite a few bumps in the road getting the site functional\nInstallation of Distill is simple enough\n\n\ninstall.packages(\"distill\")\nlibrary(distill)\n\n\n\nThe tricky part to setting up a Github website was figuring out where files are being written to and read in from. Some sites recommended that you write output from Distill to a _site directory, however, for me Github would only read from either the base directory or from a docs/ directory.\nThe Next Part\n\n\n\n",
+    "contents": "\n\nContents\nGetting Started on a Distill Website\nThe Next Part\n\nGetting Started on a Distill Website\nA few days ago I found a blog post talking about using Distill as a compiler for simple websites. I am more comfortable with R and Rmarkdown than I am with using something like Jekyll, but there were still quite a few bumps in the road getting the site functional\nInstallation of Distill is simple enough\n\n\ninstall.packages(\"distill\")\nlibrary(distill)\n\n\n\nThe tricky part to setting up a Github website was figuring out where files are being written to and read in from. Some sites recommended that you write output from Distill to a _site directory, however, for me Github would only read from either the base directory or from a docs/ directory.\nThe Next Part\nIn order for the website to render from your base Github URL (e.g. - https://mbuehle3.github.io), there are settings on Github that need to be changed. Under the Settings tab, you need to click on Options, then scroll to the bottom where it says Github Pages and Source. Select the directory where the ‘index.html’ file is located; this file is the main page to your website.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-10T04:49:44-06:00",
+    "last_modified": "2020-12-10T05:16:25-06:00",
     "input_file": {}
   }
 ]
