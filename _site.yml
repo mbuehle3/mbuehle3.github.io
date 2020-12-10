@@ -4,12 +4,19 @@ description: |
   Matthew D. Buehler
 output_dir: "docs"
 base_url: https://mbuehle3.github.io/
+theme: sitev1.css
 navbar:
+  search: true
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text:  "Eastern Indigo Snakes"
-      href: EIS.html
+    - text: "Study Systems"
+      menu:
+      - text: "Eastern Indigo Snakes"
+        href: EIS.html
+      - text: "Sea Kraits"
+        href: Laticauda.html
+
 output: distill::distill_article

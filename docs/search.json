@@ -5,7 +5,7 @@
       "title": "About Myself",
       "author": [],
       "contents": "\nMy name is Matt Buehler, and welcome to my site! I am a graduate student at Auburn University in the Phyletica lab. My research interest center around the different aspects of snake evolution. Some of the previous work that I have done includes phylogenetics and biogeography of Australasian elapid snakes, phylogeography and species delimitation of sea kraits (genus Laticauda), and my current project, population and conservation genomics of Eastern Indigo Snakes Drymarchon couperi,\n\n\n\n",
-      "last_modified": "2020-12-10T06:01:22-06:00"
+      "last_modified": "2020-12-10T07:17:15-06:00"
     },
     {
       "path": "EIS.html",
@@ -18,15 +18,29 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\nIntroduction\nEastern Indigo Snakes (EIS) are the largest colubrid snakes in North America, and is endemic to the southeastern United States. Currently, they are federally listed as Threatened due to the massive amounts of habitat destruction that have historically occurred in the southeastern Longleaf Pine ecosystems. Historically, the species ocurred throughout Florida, southern Georgia, southern Alabama, and perhaps even parts of Mississippi. (Figure 1) However, the current range only includes Florida and southeastern Georgia (Figure 2).\n\n\n\nFigure 1:  The historic distribution of Drymarchon couperi,figure from the USFW SSA for EIS\n\n\n\n\n\n\nFigure 2: The current distribution of Drymarchon couperi, figure from the USFW SSA for EIS\n\n\n\n\n\n\nFigure 3: An Eastern Indigo Snake Drymarchon couperi\n\n\n\n\n\n\nFigure 4: Diamond Prices\n\n\n\nplease look at figure 4\n\n\n\n",
-      "last_modified": "2020-12-10T06:01:24-06:00"
+      "contents": "\nIntroduction\nEastern Indigo Snakes (EIS) are the largest colubrid snakes in North America, and is endemic to the southeastern United States. Currently, they are federally listed as Threatened due to the massive amounts of habitat destruction that have historically occurred in the southeastern Longleaf Pine ecosystems. Historically, the species ocurred throughout Florida, southern Georgia, southern Alabama, and perhaps even parts of Mississippi. (Figure 1) However, the current range only includes Florida and southeastern Georgia (Figure 2).\n\n\n\nFigure 1:  The historic distribution of Drymarchon couperi,figure from the USFW SSA for EIS\n\n\n\n\n\n\nFigure 2: The current distribution of Drymarchon couperi, figure from the USFW SSA for EIS\n\n\n\n\n\n\nFigure 3: An Eastern Indigo Snake Drymarchon couperi\n\n\n\n\n\n\n",
+      "last_modified": "2020-12-10T07:17:15-06:00"
     },
     {
       "path": "index.html",
       "title": "Matthew D. Buehler",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-12-10T06:01:24-06:00"
+      "last_modified": "2020-12-10T07:17:16-06:00"
+    },
+    {
+      "path": "Laticauda.html",
+      "title": "Sea Kraits",
+      "description": "Marine Adapted Snakes of the Indian and Pacific Oceans\n",
+      "author": [
+        {
+          "name": "Matthew D. Buehler",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nIntroduction\nLaticauda is a genus of marine adapted elapid snakes found in the eastern Indian Ocean and the western and southern Pacific Ocean.\n\n\n\n",
+      "last_modified": "2020-12-10T07:17:16-06:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -1,0 +1,18 @@
+---
+title: "Sea Kraits"
+description: |
+  Marine Adapted Snakes of the Indian and Pacific Oceans
+author:
+  - name: Matthew D. Buehler 
+    affiliation: Auburn University
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+*Laticauda* is a genus of marine adapted elapid snakes found in the eastern Indian Ocean and the western and southern Pacific Ocean.
